@@ -1,4 +1,4 @@
-# Ping-Ping
+# Ping-Pong
 Ping Pong created on the DE1-SOC board (FPGA) using Verilog!
 
 # Overview
