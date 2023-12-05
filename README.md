@@ -13,7 +13,8 @@ Configure the project settings for the DE1-SoC board.
 Load the bitstream onto the FPGA.
 Power on the DE1-SoC board and start playing!
 
-We want to reference Rahim Moosa and PorjectF, as we learned some things from and used them as references. 
+We utilized the amazing learning material provided by ProjectF and used Rahim Moosa's pong game as a reference. 
+Here are their respective links: 
 https://github.com/rahimmoosa/DE1-SOC_Pong_Game
 https://projectf.io
 
